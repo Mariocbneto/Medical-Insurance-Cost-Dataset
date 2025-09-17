@@ -15,6 +15,7 @@ The goal of this project is to:
 - Explore how variables such as smoking status, BMI, and number of children affect insurance costs
 - Build a predictive model to estimate individual insurance charges
 - Extract actionable insights from the data
+- Create visual dashboards for interactive data exploration
 
 ---
 
@@ -35,6 +36,10 @@ The goal of this project is to:
   - Average insurance cost by number of children
 - **Scatter Plots**
   - Age vs. insurance cost with smoking status as hue
+- **Cards / KPI**
+  - Average monthly insurance cost
+  - Average monthly cost for smokers
+  - Average monthly cost for non-smokers
 - **Predictions**
   - ML model predicts individual insurance costs based on user features
 
@@ -47,6 +52,18 @@ The goal of this project is to:
 - **Matplotlib & Seaborn** – data visualization  
 - **Scikit-learn** – machine learning (Random Forest Regression)  
 - **Jupyter Notebook** – interactive coding and exploration  
+- **Power BI** – interactive dashboards  
+- **Streamlit** – web-based dashboard for sharing ML predictions  
 - **Git & GitHub** – version control and project sharing  
 
+---
+
+## How to Run the Code
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Mariocbneto/Medical-Insurance-Cost-Dataset.git
+cd Medical-Insurance-Cost-Dataset
 pip install -r requirements.txt
+streamlit run app.py
