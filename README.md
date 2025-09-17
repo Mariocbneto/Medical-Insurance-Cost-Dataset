@@ -66,4 +66,4 @@ The goal of this project is to:
 git clone https://github.com/Mariocbneto/Medical-Insurance-Cost-Dataset.git
 cd Medical-Insurance-Cost-Dataset
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run insurance_dashboard.py
