@@ -8,6 +8,8 @@ It includes data cleaning, exploratory analysis, visualization, and a predictive
 ---
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://medical-insurance-cost-dataset-jvq2dwcqwxgloq9wlcfcgm.streamlit.app/) < - - - - Open
 
+<img width="1158" height="652" alt="POWERBI" src="https://github.com/user-attachments/assets/11a4a21c-b2a2-4eae-9839-659d8ccd4c5a" />
+
 ## Project Overview
 
 The goal of this project is to:
