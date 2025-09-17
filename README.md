@@ -6,6 +6,7 @@ It includes data cleaning, exploratory analysis, visualization, and a predictive
 **Dataset:** [Medical Insurance Cost Dataset](https://www.kaggle.com/datasets/mosapabdelghany/medical-insurance-cost-dataset/data)
 
 ---
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://medical-insurance-cost-dataset-jvq2dwcqwxgloq9wlcfcgm.streamlit.app/)
 
 ## Project Overview
 
